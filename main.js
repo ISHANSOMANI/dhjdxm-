@@ -18,9 +18,9 @@ function modeloaded(){
 
 
 function draw(){
-    document.getElementById("rtr").innerHTML = edde
+   
     background('#D4AF37');
-    text("Minecraft",100,200)
+    text('Minecraft',10,30)
 fill(0,0,255)
 stroke(128,0,0)
 textSize(difference)
