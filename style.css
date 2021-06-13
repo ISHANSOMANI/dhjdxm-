@@ -1,0 +1,37 @@
+img{
+    width: 100px;
+    height: 100px;
+    border: dashed white;
+}
+
+.heading{
+    font-size: 25px;
+    font-family:Titillium Sans and Dosis;
+    width: 100%;
+    box-shadow: 5px 5px 10px yellow;
+    color:black;
+}
+
+
+.note{
+    font-size: 15px;
+    color: darkslateblue;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: Algerian;
+}
+
+.copyright_footer{
+    position: fixed ;
+    width: 100%;
+    bottom:0;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    background-color: yellow;
+    box-shadow:5px 3px 3px orange;
+    border-radius: 15px;
+}
